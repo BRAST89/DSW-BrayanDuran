@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/stilos.css">
+</head>
+<body>
+    <header>titulo del sitios</header>
+    <nav>
+        <ul>
+            <li>Inicio</li>
+            <li>Temas
+                <ul>
+                    <li>Tema 1</li>
+                    <li>Tema 2</li>
+                </ul>
+            </li>
+            <li>Recursos Digitales
+                <ul>
+                    <li>Recurso 1</li>
+                    <li>Recurso 2</li>
+                </ul>
+            </li>
+            <li>Aprendizaje
+                <ul>
+                    <li>Actividad 1</li>
+                    <li>Actividad 2</li>
+                </ul>
+            </li>
+            <li>Acerca de</li>
+        </ul>
+    </nav>
+    <section>
+        <article>
+            <iframe src="pdf/SINTAXIS Y SELECTORES CSS.pdf" frameborder="0"></iframe>
+    
+
+        </article>
+        <aside>lateral</aside>
+    </section>
+    <footer>pie de pagina</footer>
+</body>
+</html>
