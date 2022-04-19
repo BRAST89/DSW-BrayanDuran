@@ -10,7 +10,7 @@
 <body>
     <header>titulo del sitios</header>
     <nav>
-        <ul class="menu"> 
+        <ul class=".menu"> 
             <li><a href="incio.html"></a>Inicio</li>
             <li><a href="#">Temas</a> 
                 <ul>
